@@ -4,5 +4,5 @@ Created by Matthew Streib and Ryan Hui for the 2024 Cruzhacks. This was created 
 
 The official link to the website can be found [here](goldenhours.us)
 
-The official link to our devpost Cruzhacks submission can be found [here]([https://devpost.com/submit-to/19740-cruzhacks-2024/manage/submissions](https://devpost.com/software/golden-hours?ref_content=my-projects-tab&ref_feature=my_projects)https://devpost.com/software/golden-hours?ref_content=my-projects-tab&ref_feature=my_projects)
+The official link to our devpost Cruzhacks submission can be found [here](https://devpost.com/submit-to/19740-cruzhacks-2024/manage/submissions](https://devpost.com/software/golden-hours?ref_content=my-projects-tab&ref_feature=my_projects)https://devpost.com/software/golden-hours?ref_content=my-projects-tab&ref_feature=my_projects)
 
