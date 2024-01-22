@@ -4,4 +4,6 @@ Created by Matthew Streib and Ryan Hui for the 2024 Cruzhacks. This was created 
 
 The official link to the website can be found [here](https://matthews678.github.io/)
 
+## Notes
 
+One of the images does not load on the website.
